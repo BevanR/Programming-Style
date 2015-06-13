@@ -9,3 +9,5 @@ File | Technical debt | Implementation time | Execution time
 `fast.php` | 3 units | ~1 hour | 0.5s
 `readable.php` | 1-2 units | ~2 hours | 10s
 `both.php` | 1 unit | ~3 hours | 0.5s
+
+All three have the same output.  Test data is not currently provided.
